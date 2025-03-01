@@ -12,5 +12,5 @@ This project demonstrates deploying a Flask app using Docker and Kubernetes.
 ## Future Updates
 More features and improvements coming soon!
 
-## Setup Instructions (Optional)
+## Setup Instructions 
 Instructions for setup and deployment will be added soon.
